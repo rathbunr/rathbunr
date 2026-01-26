@@ -13,7 +13,7 @@
 
 ### 📊 GitHub Stats & Code Insights
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rathbunr&count_private=true&show_icons=true&rank_icon=default&include_all_commits=true&theme=dark&hide_border=true" alt="Robert Rathbun's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rathbunr&count_private=tru&show_icons=true&rank_icon=default&include_all_commits=true&theme=dark&hide_border=true" alt="Robert Rathbun's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathbunr&layout=compact&langs_count=10&hide=javascript,css,scss,html&theme=dark&hide_border=true" alt="Top Languages" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rathbunr&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
