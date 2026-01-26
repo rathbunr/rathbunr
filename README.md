@@ -20,15 +20,15 @@
 
 #### Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathbunr&bg_color=1a1b27&color=4c5fd5&line=2f81f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=rathbunr&bg_color=1a1b27&color=4c5fd5&line=2f81f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 *These graphs pull code stats from all your repos: overall activity, top languages used, commit streaks, and a calendar view of contributions. For more detailed per-repo stats (e.g., lines of code), tools like GitHub Insights or cloc can be used separately.*
+<!-- Self-hosted alternative: Replace above URLs with your instance, e.g., https://your-stats-app.vercel.app/api?... -->
 
 ### 🔗 Connect with Me
-- 🌐 Portfolio: [Personal Site](https://rathbunr.github.io) (add your actual link)
-- 📧 Email: rathbunr@example.com (replace with yours)
 - 🐙 GitHub: [rathbunr](https://github.com/rathbunr)
+<!-- 🌐 Portfolio: [Personal Site](https://rathbunr.github.io) (uncomment and update when ready) -->
 
 ### 📌 Featured Repos
 <div align="center">
@@ -37,9 +37,5 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rathbunr&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> Visitors today: ![Visitor Count](https://profile-counter.glitch.me/rathbunr/count.svg)
-</div>
 
 *Thanks for stopping by! Let's connect on Zero Trust or automation topics. 🚀*
