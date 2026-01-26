@@ -14,7 +14,8 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathbunr&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathbunr&count_private=true&show_icons=true&rank_icon=default&include_all_commits=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rathbunr&layout=compact&langs_count=20&theme=transparent)
+
 
