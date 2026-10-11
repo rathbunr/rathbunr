@@ -12,9 +12,9 @@
 
 **U.S. Army veteran turned Cyber Security Architect** with 30+ years in enterprise IT, currently focused on **CMMC Level 2 compliance**, **Ansible Automation Platform**, and **end-to-end Configuration-as-Code** in regulated environments.
 
-I automate everything I touch — from bare-metal provisioning through OS hardening, application deployment, and continuous compliance scanning. My home lab runs an enterprise-grade stack (RHEL, AAP 2.6, Satellite, IdM with cross-realm AD trust, rootless Podman with DoD Iron Bank images) as a proof-of-concept environment for defense-sector tooling.
+I automate everything I touch — from bare-metal provisioning through OS hardening, application deployment, and continuous compliance scanning. My home lab runs an enterprise-grade stack (RHEL, AAP 2.x, Satellite 6.x, IdM with cross-realm AD trust, rootless Podman with DoD Iron Bank images) as a proof-of-concept environment for defense-sector tooling.
 
-When I'm not building, I'm usually scuba diving or fishing.
+When I'm not securing, designing, and building systems, I'm usually scuba diving or fishing.
 
 ### 📊 GitHub Stats & Code Insights
 
